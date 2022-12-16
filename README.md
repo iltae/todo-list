@@ -1,4 +1,6 @@
-[스크린캐스트 2022년 12월 16일 19시 59분 34초.webm](https://user-images.githubusercontent.com/106229016/208084300-1f270636-9574-461b-8202-55c134da15a6.webm)
+[스크린캐스트 2022년 12월 16일 20시 12분 30초.webm](https://user-images.githubusercontent.com/106229016/208086252-8d4a48f2-4eb6-457d-9862-e33ceaefc84b.webm)
+
+
 
 
 1. 단순히 `preventDefaultValue()` 렌더링을 막아 추가에 성공했다 -> 서버에 저장하는 법을 터득해야 할 것 같습니다.
